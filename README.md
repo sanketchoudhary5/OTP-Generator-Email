@@ -1,10 +1,10 @@
 
 # 📧 OTP Verification via Email
 
-## 📜 Description
+##  Description
 This project enables OTP (One-Time Password) verification via email using **EmailJS**, providing a secure authentication method for user verification. It ensures reliable email-based OTP delivery, making it ideal for login, signup, and password reset functionalities without requiring a complex backend setup.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ✅ **Frontend:** HTML, CSS, JavaScript
 
@@ -12,7 +12,7 @@ This project enables OTP (One-Time Password) verification via email using **Emai
 
 ✅ **OTP Generation:** JavaScript Random Functions   
 
-## ✉️ How to Create Email Service with EmailJS
+##  How to Create Email Service with EmailJS
 
 1. **Sign up on EmailJS** at [EmailJS Website](https://www.emailjs.com/)
 2. **Create a new service** and connect your email provider (Gmail, Outlook, etc.)
@@ -39,14 +39,14 @@ This project enables OTP (One-Time Password) verification via email using **Emai
 
    
 
-## ## 📚 Documentation
+## ##  Documentation
 
 [Documentation](https://linktodocumentation)
 
 - **EmailJS Docs:** (https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js")
 
 //You can paste with docs in <script></script>
-## 🌟 Features
+##  Features
 ✔️ Easy integration with **EmailJS**  
 ✔️ Secure **OTP Generation & Verification**  
 ✔️ Customizable email template  
@@ -54,7 +54,7 @@ This project enables OTP (One-Time Password) verification via email using **Emai
 ✔️ No backend required (if using only EmailJS)  
 
 
-## ❓ FAQ
+##  FAQ
 
 ### 1️⃣ What is EmailJS?
 **EmailJS** allows sending emails directly from JavaScript without a backend server.
